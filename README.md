@@ -1,2 +1,2 @@
 # HaskellTesting
-![Build Status](https://circleci.com/gh/gabegordon/HaskellTesting.svg?style=shield&circle-token=:circle-token)
+[![Build Status](https://travis-ci.org/gabegordon/HaskellTesting.svg?branch=master)](https://travis-ci.org/gabegordon/HaskellTesting)
